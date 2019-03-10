@@ -2,11 +2,11 @@
 @import url("https://fonts.googleapis.com/css?family=Open+Sans");
 body {
   background: #0f1516;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'FangSong', sans-serif;
 }
 @media (max-width: 33.9em) {
   body {
-    font-size: 0.7em;
+    font-size: 0.9em;
   }
 }
 .bg-gradient {
